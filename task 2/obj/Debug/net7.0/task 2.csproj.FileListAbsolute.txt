@@ -1,0 +1,15 @@
+C:\GB\c#\Web1\task 2\obj\Debug\net7.0\task 2.csproj.AssemblyReference.cache
+C:\GB\c#\Web1\task 2\obj\Debug\net7.0\task 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB\c#\Web1\task 2\obj\Debug\net7.0\task 2.AssemblyInfoInputs.cache
+C:\GB\c#\Web1\task 2\obj\Debug\net7.0\task 2.AssemblyInfo.cs
+C:\GB\c#\Web1\task 2\obj\Debug\net7.0\task 2.csproj.CoreCompileInputs.cache
+C:\GB\c#\Web1\task 2\bin\Debug\net7.0\task 2.exe
+C:\GB\c#\Web1\task 2\bin\Debug\net7.0\task 2.deps.json
+C:\GB\c#\Web1\task 2\bin\Debug\net7.0\task 2.runtimeconfig.json
+C:\GB\c#\Web1\task 2\bin\Debug\net7.0\task 2.dll
+C:\GB\c#\Web1\task 2\bin\Debug\net7.0\task 2.pdb
+C:\GB\c#\Web1\task 2\obj\Debug\net7.0\task 2.dll
+C:\GB\c#\Web1\task 2\obj\Debug\net7.0\refint\task 2.dll
+C:\GB\c#\Web1\task 2\obj\Debug\net7.0\task 2.pdb
+C:\GB\c#\Web1\task 2\obj\Debug\net7.0\task 2.genruntimeconfig.cache
+C:\GB\c#\Web1\task 2\obj\Debug\net7.0\ref\task 2.dll
