@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GB\\c#\\Web1\\C_homework\\task 4\\task 4.csproj": {}
+    "C:\\GB\\c#\\Web2\\task 10\\task 10.csproj": {}
   },
   "projects": {
-    "C:\\GB\\c#\\Web1\\C_homework\\task 4\\task 4.csproj": {
+    "C:\\GB\\c#\\Web2\\task 10\\task 10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GB\\c#\\Web1\\C_homework\\task 4\\task 4.csproj",
-        "projectName": "task 4",
-        "projectPath": "C:\\GB\\c#\\Web1\\C_homework\\task 4\\task 4.csproj",
+        "projectUniqueName": "C:\\GB\\c#\\Web2\\task 10\\task 10.csproj",
+        "projectName": "task 10",
+        "projectPath": "C:\\GB\\c#\\Web2\\task 10\\task 10.csproj",
         "packagesPath": "C:\\Users\\ASUS ROG\\.nuget\\packages\\",
-        "outputPath": "C:\\GB\\c#\\Web1\\C_homework\\task 4\\obj\\",
+        "outputPath": "C:\\GB\\c#\\Web2\\task 10\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS ROG\\AppData\\Roaming\\NuGet\\NuGet.Config"

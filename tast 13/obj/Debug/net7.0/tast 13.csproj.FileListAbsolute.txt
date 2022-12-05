@@ -1,0 +1,15 @@
+C:\GB\c#\Web2\tast 13\obj\Debug\net7.0\tast 13.csproj.AssemblyReference.cache
+C:\GB\c#\Web2\tast 13\obj\Debug\net7.0\tast 13.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB\c#\Web2\tast 13\obj\Debug\net7.0\tast 13.AssemblyInfoInputs.cache
+C:\GB\c#\Web2\tast 13\obj\Debug\net7.0\tast 13.AssemblyInfo.cs
+C:\GB\c#\Web2\tast 13\obj\Debug\net7.0\tast 13.csproj.CoreCompileInputs.cache
+C:\GB\c#\Web2\tast 13\bin\Debug\net7.0\tast 13.exe
+C:\GB\c#\Web2\tast 13\bin\Debug\net7.0\tast 13.deps.json
+C:\GB\c#\Web2\tast 13\bin\Debug\net7.0\tast 13.runtimeconfig.json
+C:\GB\c#\Web2\tast 13\bin\Debug\net7.0\tast 13.dll
+C:\GB\c#\Web2\tast 13\bin\Debug\net7.0\tast 13.pdb
+C:\GB\c#\Web2\tast 13\obj\Debug\net7.0\tast 13.dll
+C:\GB\c#\Web2\tast 13\obj\Debug\net7.0\refint\tast 13.dll
+C:\GB\c#\Web2\tast 13\obj\Debug\net7.0\tast 13.pdb
+C:\GB\c#\Web2\tast 13\obj\Debug\net7.0\tast 13.genruntimeconfig.cache
+C:\GB\c#\Web2\tast 13\obj\Debug\net7.0\ref\tast 13.dll

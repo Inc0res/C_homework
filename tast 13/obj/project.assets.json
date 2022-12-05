@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GB\\c#\\Web1\\C_homework\\task 4\\task 4.csproj",
-      "projectName": "task 4",
-      "projectPath": "C:\\GB\\c#\\Web1\\C_homework\\task 4\\task 4.csproj",
+      "projectUniqueName": "C:\\GB\\c#\\Web2\\tast 13\\tast 13.csproj",
+      "projectName": "tast 13",
+      "projectPath": "C:\\GB\\c#\\Web2\\tast 13\\tast 13.csproj",
       "packagesPath": "C:\\Users\\ASUS ROG\\.nuget\\packages\\",
-      "outputPath": "C:\\GB\\c#\\Web1\\C_homework\\task 4\\obj\\",
+      "outputPath": "C:\\GB\\c#\\Web2\\tast 13\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS ROG\\AppData\\Roaming\\NuGet\\NuGet.Config"
