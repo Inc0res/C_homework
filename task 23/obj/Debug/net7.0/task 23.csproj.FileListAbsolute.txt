@@ -1,0 +1,15 @@
+C:\GB\c#\Web1\C_homework\task 23\bin\Debug\net7.0\task 23.exe
+C:\GB\c#\Web1\C_homework\task 23\bin\Debug\net7.0\task 23.deps.json
+C:\GB\c#\Web1\C_homework\task 23\bin\Debug\net7.0\task 23.runtimeconfig.json
+C:\GB\c#\Web1\C_homework\task 23\bin\Debug\net7.0\task 23.dll
+C:\GB\c#\Web1\C_homework\task 23\bin\Debug\net7.0\task 23.pdb
+C:\GB\c#\Web1\C_homework\task 23\obj\Debug\net7.0\task 23.csproj.AssemblyReference.cache
+C:\GB\c#\Web1\C_homework\task 23\obj\Debug\net7.0\task 23.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB\c#\Web1\C_homework\task 23\obj\Debug\net7.0\task 23.AssemblyInfoInputs.cache
+C:\GB\c#\Web1\C_homework\task 23\obj\Debug\net7.0\task 23.AssemblyInfo.cs
+C:\GB\c#\Web1\C_homework\task 23\obj\Debug\net7.0\task 23.csproj.CoreCompileInputs.cache
+C:\GB\c#\Web1\C_homework\task 23\obj\Debug\net7.0\task 23.dll
+C:\GB\c#\Web1\C_homework\task 23\obj\Debug\net7.0\refint\task 23.dll
+C:\GB\c#\Web1\C_homework\task 23\obj\Debug\net7.0\task 23.pdb
+C:\GB\c#\Web1\C_homework\task 23\obj\Debug\net7.0\task 23.genruntimeconfig.cache
+C:\GB\c#\Web1\C_homework\task 23\obj\Debug\net7.0\ref\task 23.dll
